@@ -1,0 +1,1 @@
+cout<< mark2[i];
