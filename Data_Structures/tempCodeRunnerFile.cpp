@@ -1,0 +1,1 @@
+cout<<"This is the maximum number: "<<maximum<<endl;

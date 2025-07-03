@@ -1,1 +1,5 @@
-cout<< mark2[i];
+    // if(numberMIlaKyaa){
+    //     cout<<"Milaaaaaaaaaa";
+    // }else{
+    //     cout<<"Nahi NIla";
+    // }
