@@ -14,3 +14,10 @@ hi all this is my first repositary .
 git add .
 
 ```
+- today i used sleep function nd it will only work when u will write #include<windows.h>
+
+```cpp
+    #include<windows.h>
+    Sleep(20);
+
+```
