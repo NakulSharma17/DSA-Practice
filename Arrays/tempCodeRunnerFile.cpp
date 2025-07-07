@@ -1,5 +1,2 @@
-    // if(numberMIlaKyaa){
-    //     cout<<"Milaaaaaaaaaa";
-    // }else{
-    //     cout<<"Nahi NIla";
-    // }
+
+        cin>>arr2[i];

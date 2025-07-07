@@ -21,3 +21,18 @@ git add .
     Sleep(20);
 
 ```
+- Flag done!!
+-Why flag??- To avoid else......basically loop ke andar wala else avoid krne ke lie flag use krte hai ham -so that har bar else wala bhi print ho...for example-
+-agr koi array me value 1 search krni hain to use krsakte hai
+```cpp
+    bool mila==False;
+    for(int i =0;i<size;i++){
+        if(arr[i]==1){
+            cout<<"Found";
+            mila==ture;
+        }
+    }
+    if(mila==false){
+        cout<<"No element found";
+    }
+```
